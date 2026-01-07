@@ -1,6 +1,6 @@
 # ICLab
 
-ICLab is a well-known IC design course in NYCU. I have written the RTL to these problems and implement it on the Zedboard FPGA.
+ICLab is a well-known IC design course in NYCU. I have written the RTL to these problems and implemented it on the Zedboard FPGA.
 
 ## Labs
 
