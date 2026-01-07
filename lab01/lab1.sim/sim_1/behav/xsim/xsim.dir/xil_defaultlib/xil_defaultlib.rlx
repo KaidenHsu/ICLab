@@ -1,0 +1,11 @@
+0.7
+2020.2
+Sep 11 2025
+21:29:11
+C:/Users/ryanh/fpga/iclab/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1748340170,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sim_1/new/tb_sorter.sv,1764611094,systemVerilog,,,,tb_sorter,,uvm,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef;../../../../lab1.srcs/sources_1/new,,,,,
+C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sources_1/new/CC.v,1764832994,verilog,,C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sources_1/new/compare_and_swap.v,,CC,,uvm,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef;../../../../lab1.srcs/sources_1/new,,,,,
+C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sources_1/new/compare_and_swap.v,1764678041,verilog,,C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sources_1/new/min_size_sorting_network.v,,compare_and_swap,,uvm,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef;../../../../lab1.srcs/sources_1/new,,,,,
+C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sources_1/new/min_size_sorting_network.v,1764611295,verilog,,,,min_size_sorting_network,,uvm,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef;../../../../lab1.srcs/sources_1/new,,,,,
+C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sources_1/new/sorter.v,1764494041,verilog,,,,sorter,,uvm,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef;../../../../lab1.srcs/sources_1/new,,,,,
+C:/Users/ryanh/fpga/iclab/lab1/lab1.srcs/sources_1/new/tb_CC.sv,1764678498,systemVerilog,,,,tb_cc,,uvm,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef;../../../../lab1.srcs/sources_1/new,,,,,

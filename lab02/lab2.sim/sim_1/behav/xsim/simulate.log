@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+All test cases passed!
+average cycle = 106.000000
+$finish called at time : 2320 ns : File "C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/PATTERN.v" Line 199

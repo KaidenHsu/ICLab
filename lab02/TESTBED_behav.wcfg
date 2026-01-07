@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TESTBED_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TESTBED" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="37.584 ns"></ZoomStartTime>
+      <ZoomEndTime time="375.749 ns"></ZoomEndTime>
+      <Cursor1Time time="165.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="180"></NameColumnWidth>
+      <ValueColumnWidth column_width="231"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="31" />
+   <wvobject fp_name="/TESTBED/queen_orange/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="CustomSignalColor">#A0A0A4</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+      <obj_property name="CustomSignalColor">#A0A0A4</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/in_valid_num" type="logic">
+      <obj_property name="ElementShortName">in_valid_num</obj_property>
+      <obj_property name="ObjectShortName">in_valid_num</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/in_num" type="array">
+      <obj_property name="ElementShortName">in_num[2:0]</obj_property>
+      <obj_property name="ObjectShortName">in_num[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/in_valid" type="logic">
+      <obj_property name="ElementShortName">in_valid</obj_property>
+      <obj_property name="ObjectShortName">in_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/col" type="array">
+      <obj_property name="ElementShortName">col[3:0]</obj_property>
+      <obj_property name="ObjectShortName">col[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/row" type="array">
+      <obj_property name="ElementShortName">row[3:0]</obj_property>
+      <obj_property name="ObjectShortName">row[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/fix_num" type="array">
+      <obj_property name="ElementShortName">fix_num[2:0]</obj_property>
+      <obj_property name="ObjectShortName">fix_num[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/read_lim" type="array">
+      <obj_property name="ElementShortName">read_lim[3:0]</obj_property>
+      <obj_property name="ObjectShortName">read_lim[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/sear_lim" type="array">
+      <obj_property name="ElementShortName">sear_lim[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sear_lim[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/col_cache" type="array">
+      <obj_property name="ElementShortName">col_cache[5:0][3:0]</obj_property>
+      <obj_property name="ObjectShortName">col_cache[5:0][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/row_cache" type="array">
+      <obj_property name="ElementShortName">row_cache[5:0][3:0]</obj_property>
+      <obj_property name="ObjectShortName">row_cache[5:0][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/answer" type="array">
+      <obj_property name="ElementShortName">answer[11:0][3:0]</obj_property>
+      <obj_property name="ObjectShortName">answer[11:0][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/decide_col" type="array">
+      <obj_property name="ElementShortName">decide_col[10:0][3:0]</obj_property>
+      <obj_property name="ObjectShortName">decide_col[10:0][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/dc_idx" type="array">
+      <obj_property name="ElementShortName">dc_idx[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dc_idx[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/row_ok" type="array">
+      <obj_property name="ElementShortName">row_ok[11:0]</obj_property>
+      <obj_property name="ObjectShortName">row_ok[11:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/turnback_cond" type="array">
+      <obj_property name="ElementShortName">turnback_cond[11:1]</obj_property>
+      <obj_property name="ObjectShortName">turnback_cond[11:1]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/cnt" type="array">
+      <obj_property name="ElementShortName">cnt[3:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/out_valid" type="logic">
+      <obj_property name="ElementShortName">out_valid</obj_property>
+      <obj_property name="ObjectShortName">out_valid</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/out" type="array">
+      <obj_property name="ElementShortName">out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out[3:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFA500</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/current_state" type="array">
+      <obj_property name="ElementShortName">current_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">current_state[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/next_state" type="array">
+      <obj_property name="ElementShortName">next_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">next_state[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/S_INIT" type="array">
+      <obj_property name="ElementShortName">S_INIT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S_INIT[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/S_READ" type="array">
+      <obj_property name="ElementShortName">S_READ[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S_READ[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/S_SETUP" type="array">
+      <obj_property name="ElementShortName">S_SETUP[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S_SETUP[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/S_FORWARD" type="array">
+      <obj_property name="ElementShortName">S_FORWARD[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S_FORWARD[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/S_BACKWARD" type="array">
+      <obj_property name="ElementShortName">S_BACKWARD[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S_BACKWARD[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/S_DONE" type="array">
+      <obj_property name="ElementShortName">S_DONE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S_DONE[2:0]</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/idx" type="array">
+      <obj_property name="ElementShortName">idx[31:0]</obj_property>
+      <obj_property name="ObjectShortName">idx[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/jdx" type="array">
+      <obj_property name="ElementShortName">jdx[31:0]</obj_property>
+      <obj_property name="ObjectShortName">jdx[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TESTBED/queen_orange/kdx" type="array">
+      <obj_property name="ElementShortName">kdx[31:0]</obj_property>
+      <obj_property name="ObjectShortName">kdx[31:0]</obj_property>
+   </wvobject>
+</wave_config>

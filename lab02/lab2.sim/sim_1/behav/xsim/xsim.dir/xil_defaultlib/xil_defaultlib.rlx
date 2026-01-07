@@ -1,0 +1,9 @@
+0.7
+2020.2
+Sep 11 2025
+21:29:11
+C:/Users/ryanh/fpga/iclab/lab2/lab2.sim/sim_1/behav/xsim/glbl.v,1748340170,verilog,,,,glbl,,,,,,,,
+C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/PATTERN.v,1766138917,verilog,,C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/QUEEN_orange.v,,PATTERN,,,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/QUEEN.v,1766138178,verilog,,C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/TESTBED.v,,QUEEN,,,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/QUEEN_orange.v,1766143391,verilog,,C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/TESTBED.v,,QUEEN_orange,,,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/ryanh/fpga/iclab/lab2/lab2.srcs/sources_1/new/TESTBED.v,1766139571,verilog,,,,TESTBED,,,../../../../../../../../../Xilinx/2025.1.1/Vivado/data/rsb/busdef,,,,,
