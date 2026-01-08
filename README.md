@@ -1,4 +1,4 @@
-# ICLab
+# ICLab 積體電路實驗
 
 ICLab is a well-known IC design course in NYCU. I have written the RTL to these problems and implemented it on the Zedboard FPGA.
 
