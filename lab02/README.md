@@ -5,3 +5,5 @@
 <br>
 <br>
 從效能角度來看，目前的解法仍有優化空間，例如在搜尋開始前先整理出需要填入的 column，後續只在這些 column 間 search 與 backtrack，就能避免每次都重新尋找下一個 column，進一步減少不必要的 cycle。從這個 lab 我學到了軟體中需要 backtrack 解法的題目如何使用硬體實現相應功能。並體會了事先算好一些之後處理會反覆用到的值帶來的好處，此優化類似於軟體中 dynamic programming 的 memoization 的提速。
+
+<p align="center"><img src="/images/12-queen.png" alt="12-QUEEN" width="480" /></p>
