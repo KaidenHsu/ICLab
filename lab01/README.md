@@ -8,3 +8,5 @@
 <br>
 <br>
 除了排序以外，平均值與 passing score 的計算也有一些節省面積的小技巧。像 unsigned 平均我用常數除法的近似（乘上 magic number 再位移）來取代直接除以 7，讓硬體不需要真的推導出一個大除法器。即使現在的合成軟體（synthesizer）對於這類底層優化大多已經做得很好，但理解「最後會被合成成什麼硬體架構」對設計師仍然十分重要，因為這會直接影響你在面積、時序與可維護性之間做取捨的方式。
+
+<p align="center"><img src="/images/sorting_network.png" alt="sorting network" width="720" /></p>
