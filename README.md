@@ -7,7 +7,7 @@ ICLab is a well-known IC design course in NYCU. I have written the RTL to these 
  Labs   | Descriptions
 --------|:-----
 [Lab1][1]| Chinese Course
-[Lab2][2]| 12-QUEEN
+[Lab2][2]| 12-Queen
 [Lab3][3]| Subway Surfers
 
 [1]: lab01/
