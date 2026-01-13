@@ -1,6 +1,6 @@
-# Lab3. Subway Surfer
+# Lab3. Subway Surfers
 
-在 ICLab lab3（Subway Surfer）中，題目要求主角在一個 4×64 的地圖上前進，地圖中包含 road、lower obstacle、higher obstacle 與 train 等元素，主角可以透過 forward、left、right、jump 四種動作來探索地圖，成功跑到最後一個 column 就算完成。我延續 lab2 的 FSM 設計，採取 input、forward 與 backtrack 搜尋、最後 output 結果的整體設計流程，使控制邏輯與資料流向更為清楚。值得一提的是，針對 4×64 的地圖表示，我以 4 個 shift register 來實作地圖的推進，而非使用 4 個大型的 mux，這樣可以避免複雜的選擇邏輯，有效節省電路面積，也讓資料移動的行為更貼近實際硬體的運作方式。
+在 lab3 中，題目要求主角在一個 4×64 的地圖上前進，地圖中包含 road、lower obstacle、higher obstacle 與 train 等元素，主角可以透過 forward、left、right、jump 四種動作來探索地圖，成功跑到最後一個 column 就算完成。我延續 lab2 的 FSM 設計，採取 input、forward 與 backtrack 搜尋、最後 output 結果的整體設計流程，使控制邏輯與資料流向更為清楚。值得一提的是，針對 4×64 的地圖表示，我以 4 個 shift register 來實作地圖的推進，而非使用 4 個大型的 mux，這樣可以避免複雜的選擇邏輯，有效節省電路面積，也讓資料移動的行為更貼近實際硬體的運作方式。:
 <br>
 <br>
 這個 lab 比起 RTL 設計本身，更著重於功能完整的 testbench 撰寫。我在本 lab 中採用 random testing，總共產生 300 組測資，用來檢驗 RTL 在各種不同地圖與初始條件下的正確性。testbench 會依照題目規範自行產生 4×64 的地圖內容，並模擬主角在地圖中的行為。同時，題目一共定義了 10 個 specs，我的 testbench 必須逐一檢查設計是否滿足這些規格，確保輸出結果在時序與功能上皆符合要求，嚴謹檢查輸出的正確性與效能。
