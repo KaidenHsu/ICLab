@@ -15,3 +15,5 @@ ICLab is a well-known IC design course in **National Yang Ming Chiao Tung Univer
 [1]: lab01/
 [2]: lab02/
 [3]: lab03/
+
+<p align="center"><img src="images/NYCU.jpg" alt="NYCU" width="960" /></p>
