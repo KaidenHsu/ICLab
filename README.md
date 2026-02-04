@@ -1,4 +1,4 @@
-# ICLab 積體電路實驗
+# ICLab (Integrated Circuit Lab)
 
 [![zh-tw](https://img.shields.io/badge/lang-繁體中文-blue.svg)](README.zh-tw.md)
 
