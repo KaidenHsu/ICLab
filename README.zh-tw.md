@@ -15,3 +15,5 @@ ICLab 是陽明交通大學（NYCU）一門著名的 IC 設計課程。我針對
 [1]: lab01/README.zh-tw.md
 [2]: lab02/README.zh-tw.md
 [3]: lab03/README.zh-tw.md
+
+<p align="center"><img src="images/NYCU.jpg" alt="NYCU" width="960" /></p>
