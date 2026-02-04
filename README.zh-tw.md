@@ -2,7 +2,7 @@
 
 [![zh-tw](https://img.shields.io/badge/lang-繁體中文-blue.svg)](README.zh-tw.md)
 
-ICLab is a well-known IC design course in **National Yang Ming Chiao Tung University (NYCU)**. I have written the RTL to these problems and implemented it on the Zedboard FPGA.
+ICLab 是陽明交通大學（NYCU）一門著名的 IC 設計課程。我針對這些題目撰寫 RTL，並將其實作在 Zedboard FPGA 開發板上。
 
 ## Labs
 
@@ -12,6 +12,6 @@ ICLab is a well-known IC design course in **National Yang Ming Chiao Tung Univer
 [Lab2][2]| 12-Queen
 [Lab3][3]| Subway Surfers
 
-[1]: lab01/
-[2]: lab02/
-[3]: lab03/
+[1]: lab01/README.zh-tw.md
+[2]: lab02/README.zh-tw.md
+[3]: lab03/README.zh-tw.md
